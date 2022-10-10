@@ -14,7 +14,7 @@ For example, the sample dataset contains Life Expectancy related data from a per
 * Split data based on country status (Developing & Developed)
 * Split data based on each year
 
-![Features](https://user-images.githubusercontent.com/81750079/194787871-a24b24fd-7e39-40a0-bdb3-a4dbb4d2523a.png)
+![Features](https://user-images.githubusercontent.com/81750079/194788090-2d1931af-5143-4cf5-9604-2d2dfe7f3498.png)
 
 
 ### Dataset
