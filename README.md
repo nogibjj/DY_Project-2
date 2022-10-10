@@ -1,4 +1,4 @@
-[![Python application test with Github Actions using devcontainers](https://github.com/nogibjj/DY_Project-2/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DY_Project-2/actions/workflows/main.yml)
+[![CI](https://github.com/nogibjj/DY_Project-2/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DY_Project-2/actions/workflows/main.yml)
 
 # Bash command-line tool to clean and truncate data
 The objective of this project is to build a Bash command-line tool that performs a useful data preparation task such as cleaning data (especially handeling missing value rows), and truncating data based on specific criteria.
