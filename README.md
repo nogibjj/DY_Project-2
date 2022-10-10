@@ -9,6 +9,14 @@ The motivation of this project is to help reducing time on mannually subsetting 
 
 For example, the sample dataset contains Life Expectancy related data from a period of 2000 to 2015 for all the countries. It would be fine to use Excel mannually filtering on country's status, either developing or developed, then save the filtered data file twice; but think about doing it more than 5 times? For instance, it would be tedious and time-wasting to use Excel mannually filtering each year, followed by "saving as" with typing each year 15 times.
 
+## Features
+* Dropping missing values
+* Split data based on country status (Developing & Developed)
+* Split data based on each year
+
+![Features](https://user-images.githubusercontent.com/81750079/194787871-a24b24fd-7e39-40a0-bdb3-a4dbb4d2523a.png)
+
+
 ### Dataset
 The Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries The datasets are made available to public for the purpose of health data analysis. The dataset related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. 
 
